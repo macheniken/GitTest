@@ -1,2 +1,3 @@
-高明哲Hello world~
+﻿高明哲Hello world~
 修改21.30
+Creating a new branch is quick.
